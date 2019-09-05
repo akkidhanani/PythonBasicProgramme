@@ -1,3 +1,2 @@
-# IOT
-
-IOT Practicals in Python. 
+# Python Programe
+Python Basic Programme 
