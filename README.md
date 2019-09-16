@@ -1,2 +1,2 @@
-# Python Programe
-Python Basic Programme 
+# Python Program
+Python Basic Program
